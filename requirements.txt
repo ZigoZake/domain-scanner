@@ -1,7 +1,5 @@
-# pip3 install -r requirements.txt
-
+# Python dependencies for the domain scanner
 requests
-dnspython
 python-whois
+dnspython
 python-nmap
-nuclei

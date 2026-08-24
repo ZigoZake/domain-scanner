@@ -1,0 +1,16 @@
+# Python cache and virtual environments
+__pycache__/
+*.py[cod]
+.venv/
+venv/
+env/
+
+# Local reports and generated outputs
+reports/
+*.json
+
+# OS/editor files
+.DS_Store
+Thumbs.db
+.idea/
+.vscode/
